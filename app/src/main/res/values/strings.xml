@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Search">Search</string>
+    <string name="Home">Home</string>
+    <string name="add_post">add_post</string>
+    <string name="Notification">Notification</string>
+    <string name="Profile">Profile</string>
+</resources>
